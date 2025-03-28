@@ -1,0 +1,6164 @@
+[
+    {
+        "gloss": "book",
+        "instances": [
+            {
+                "bbox": [
+                    385,
+                    37,
+                    885,
+                    720
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 0,
+                "signer_id": 118,
+                "source": "aslbrick",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/69241.mp4",
+                "variation_id": 0,
+                "video_id": "69241"
+            },
+            {
+                "bbox": [
+                    462,
+                    44,
+                    949,
+                    720
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 10,
+                "signer_id": 31,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/07069.mp4",
+                "variation_id": 0,
+                "video_id": "07069"
+            },
+            {
+                "bbox": [
+                    234,
+                    17,
+                    524,
+                    414
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 17,
+                "signer_id": 36,
+                "source": "startasl",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/07068.mp4",
+                "variation_id": 0,
+                "video_id": "07068"
+            },
+            {
+                "bbox": [
+                    131,
+                    26,
+                    526,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 22,
+                "signer_id": 59,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/07070.mp4",
+                "variation_id": 0,
+                "video_id": "07070"
+            },
+            {
+                "bbox": [
+                    162,
+                    54,
+                    528,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 24,
+                "signer_id": 12,
+                "source": "aslsearch",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/07099.mp4",
+                "variation_id": 0,
+                "video_id": "07099"
+            },
+            {
+                "bbox": [
+                    82,
+                    11,
+                    212,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 29,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/07074.mp4",
+                "variation_id": 0,
+                "video_id": "07074"
+            }
+        ]
+    },
+    {
+        "gloss": "drink",
+        "instances": [
+            {
+                "bbox": [
+                    551,
+                    68,
+                    1350,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 0,
+                "signer_id": 115,
+                "source": "aslbrick",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/69302.mp4",
+                "variation_id": 0,
+                "video_id": "69302"
+            },
+            {
+                "bbox": [
+                    153,
+                    11,
+                    488,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 94,
+                "source": "aslsignbank",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/65539.mp4",
+                "variation_id": 0,
+                "video_id": "65539"
+            },
+            {
+                "bbox": [
+                    196,
+                    15,
+                    521,
+                    414
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 11,
+                "signer_id": 36,
+                "source": "startasl",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/17710.mp4",
+                "variation_id": 0,
+                "video_id": "17710"
+            },
+            {
+                "bbox": [
+                    186,
+                    63,
+                    551,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 16,
+                "signer_id": 12,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/17733.mp4",
+                "variation_id": 0,
+                "video_id": "17733"
+            },
+            {
+                "bbox": [
+                    167,
+                    19,
+                    480,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 17,
+                "signer_id": 94,
+                "source": "aslsignbank",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/65540.mp4",
+                "variation_id": 0,
+                "video_id": "65540"
+            },
+            {
+                "bbox": [
+                    183,
+                    55,
+                    552,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 18,
+                "signer_id": 12,
+                "source": "aslsearch",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/17734.mp4",
+                "variation_id": 0,
+                "video_id": "17734"
+            },
+            {
+                "bbox": [
+                    289,
+                    9,
+                    783,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 19,
+                "signer_id": 52,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/17711.mp4",
+                "variation_id": 0,
+                "video_id": "17711"
+            },
+            {
+                "bbox": [
+                    673,
+                    90,
+                    1571,
+                    1072
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 20,
+                "signer_id": 6,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/17712.mp4",
+                "variation_id": 0,
+                "video_id": "17712"
+            },
+            {
+                "bbox": [
+                    28,
+                    0,
+                    542,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 21,
+                "signer_id": 21,
+                "source": "asldeafined",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/17713.mp4",
+                "variation_id": 0,
+                "video_id": "17713"
+            },
+            {
+                "bbox": [
+                    41,
+                    9,
+                    257,
+                    240
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 27,
+                "signer_id": 2,
+                "source": "spreadthesign",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/17709.mp4",
+                "variation_id": 0,
+                "video_id": "17709"
+            },
+            {
+                "bbox": [
+                    49,
+                    3,
+                    220,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 30,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/17720.mp4",
+                "variation_id": 0,
+                "video_id": "17720"
+            },
+            {
+                "bbox": [
+                    66,
+                    19,
+                    209,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 31,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/17721.mp4",
+                "variation_id": 0,
+                "video_id": "17721"
+            },
+            {
+                "bbox": [
+                    66,
+                    19,
+                    209,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 32,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/17722.mp4",
+                "variation_id": 0,
+                "video_id": "17722"
+            },
+            {
+                "bbox": [
+                    65,
+                    20,
+                    208,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 33,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/17723.mp4",
+                "variation_id": 0,
+                "video_id": "17723"
+            },
+            {
+                "bbox": [
+                    68,
+                    18,
+                    220,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 34,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/17724.mp4",
+                "variation_id": 0,
+                "video_id": "17724"
+            }
+        ]
+    },
+    {
+        "gloss": "computer",
+        "instances": [
+            {
+                "bbox": [
+                    56,
+                    11,
+                    240,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 3,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/12328.mp4",
+                "variation_id": 1,
+                "video_id": "12328"
+            },
+            {
+                "bbox": [
+                    422,
+                    50,
+                    824,
+                    720
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 6,
+                "signer_id": 38,
+                "source": "startasl",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/12312.mp4",
+                "variation_id": 0,
+                "video_id": "12312"
+            },
+            {
+                "bbox": [
+                    27,
+                    0,
+                    313,
+                    240
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 13,
+                "signer_id": 56,
+                "source": "spreadthesign",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/12311.mp4",
+                "variation_id": 1,
+                "video_id": "12311"
+            },
+            {
+                "bbox": [
+                    221,
+                    42,
+                    501,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 15,
+                "signer_id": 41,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/12338.mp4",
+                "variation_id": 1,
+                "video_id": "12338"
+            },
+            {
+                "bbox": [
+                    409,
+                    51,
+                    833,
+                    720
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 16,
+                "signer_id": 38,
+                "source": "startasl",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/12313.mp4",
+                "variation_id": 1,
+                "video_id": "12313"
+            },
+            {
+                "bbox": [
+                    257,
+                    38,
+                    1684,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 17,
+                "signer_id": 4,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/12314.mp4",
+                "variation_id": 0,
+                "video_id": "12314"
+            },
+            {
+                "bbox": [
+                    436,
+                    35,
+                    1765,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 18,
+                "signer_id": 4,
+                "source": "signschool",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/12315.mp4",
+                "variation_id": 1,
+                "video_id": "12315"
+            },
+            {
+                "bbox": [
+                    412,
+                    18,
+                    1698,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 19,
+                "signer_id": 4,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/12316.mp4",
+                "variation_id": 2,
+                "video_id": "12316"
+            },
+            {
+                "bbox": [
+                    473,
+                    44,
+                    1708,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 20,
+                "signer_id": 4,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/12317.mp4",
+                "variation_id": 2,
+                "video_id": "12317"
+            },
+            {
+                "bbox": [
+                    365,
+                    45,
+                    1673,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 21,
+                "signer_id": 4,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/12318.mp4",
+                "variation_id": 0,
+                "video_id": "12318"
+            },
+            {
+                "bbox": [
+                    494,
+                    99,
+                    1414,
+                    1077
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 22,
+                "signer_id": 45,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/12319.mp4",
+                "variation_id": 2,
+                "video_id": "12319"
+            },
+            {
+                "bbox": [
+                    74,
+                    19,
+                    565,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 23,
+                "signer_id": 59,
+                "source": "asldeafined",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/12320.mp4",
+                "variation_id": 1,
+                "video_id": "12320"
+            },
+            {
+                "bbox": [
+                    69,
+                    9,
+                    214,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 30,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/12326.mp4",
+                "variation_id": 0,
+                "video_id": "12326"
+            },
+            {
+                "bbox": [
+                    63,
+                    0,
+                    218,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 31,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/12327.mp4",
+                "variation_id": 2,
+                "video_id": "12327"
+            }
+        ]
+    },
+    {
+        "gloss": "before",
+        "instances": [
+            {
+                "bbox": [
+                    624,
+                    70,
+                    1587,
+                    1070
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 6,
+                "signer_id": 32,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/05728.mp4",
+                "variation_id": 0,
+                "video_id": "05728"
+            },
+            {
+                "bbox": [
+                    167,
+                    52,
+                    512,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 9,
+                "signer_id": 12,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/05749.mp4",
+                "variation_id": 0,
+                "video_id": "05749"
+            },
+            {
+                "bbox": [
+                    171,
+                    52,
+                    513,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 10,
+                "signer_id": 12,
+                "source": "aslsearch",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/05750.mp4",
+                "variation_id": 1,
+                "video_id": "05750"
+            },
+            {
+                "bbox": [
+                    300,
+                    12,
+                    1202,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 11,
+                "signer_id": 46,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/05729.mp4",
+                "variation_id": 1,
+                "video_id": "05729"
+            },
+            {
+                "bbox": [
+                    712,
+                    64,
+                    1652,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 12,
+                "signer_id": 32,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/05730.mp4",
+                "variation_id": 1,
+                "video_id": "05730"
+            },
+            {
+                "bbox": [
+                    190,
+                    0,
+                    504,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 13,
+                "signer_id": 88,
+                "source": "aslsignbank",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/65167.mp4",
+                "variation_id": 1,
+                "video_id": "65167"
+            },
+            {
+                "bbox": [
+                    570,
+                    98,
+                    1535,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 14,
+                "signer_id": 4,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/05731.mp4",
+                "variation_id": 0,
+                "video_id": "05731"
+            },
+            {
+                "bbox": [
+                    103,
+                    25,
+                    528,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 15,
+                "signer_id": 13,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/05732.mp4",
+                "variation_id": 0,
+                "video_id": "05732"
+            },
+            {
+                "bbox": [
+                    95,
+                    23,
+                    533,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 16,
+                "signer_id": 13,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/05733.mp4",
+                "variation_id": 1,
+                "video_id": "05733"
+            },
+            {
+                "bbox": [
+                    129,
+                    0,
+                    555,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 17,
+                "signer_id": 13,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/05734.mp4",
+                "variation_id": 0,
+                "video_id": "05734"
+            },
+            {
+                "bbox": [
+                    386,
+                    45,
+                    810,
+                    720
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 20,
+                "signer_id": 38,
+                "source": "startasl",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/05727.mp4",
+                "variation_id": 1,
+                "video_id": "05727"
+            },
+            {
+                "bbox": [
+                    74,
+                    23,
+                    209,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 23,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/05739.mp4",
+                "variation_id": 1,
+                "video_id": "05739"
+            },
+            {
+                "bbox": [
+                    90,
+                    22,
+                    203,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 24,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/05740.mp4",
+                "variation_id": 1,
+                "video_id": "05740"
+            },
+            {
+                "bbox": [
+                    65,
+                    9,
+                    219,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 25,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/05741.mp4",
+                "variation_id": 0,
+                "video_id": "05741"
+            },
+            {
+                "bbox": [
+                    67,
+                    14,
+                    216,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 26,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/05742.mp4",
+                "variation_id": 0,
+                "video_id": "05742"
+            },
+            {
+                "bbox": [
+                    43,
+                    3,
+                    212,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 27,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/05743.mp4",
+                "variation_id": 0,
+                "video_id": "05743"
+            }
+        ]
+    },
+    {
+        "gloss": "chair",
+        "instances": [
+            {
+                "bbox": [
+                    40,
+                    6,
+                    266,
+                    240
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 8,
+                "signer_id": 0,
+                "source": "spreadthesign",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/09848.mp4",
+                "variation_id": 0,
+                "video_id": "09848"
+            },
+            {
+                "bbox": [
+                    183,
+                    55,
+                    560,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 11,
+                "signer_id": 12,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/09869.mp4",
+                "variation_id": 0,
+                "video_id": "09869"
+            },
+            {
+                "bbox": [
+                    388,
+                    56,
+                    806,
+                    720
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 12,
+                "signer_id": 38,
+                "source": "startasl",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/09849.mp4",
+                "variation_id": 0,
+                "video_id": "09849"
+            },
+            {
+                "bbox": [
+                    667,
+                    144,
+                    1472,
+                    1061
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 13,
+                "signer_id": 31,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/09850.mp4",
+                "variation_id": 0,
+                "video_id": "09850"
+            },
+            {
+                "bbox": [
+                    102,
+                    22,
+                    563,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 14,
+                "signer_id": 59,
+                "source": "asldeafined",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/09851.mp4",
+                "variation_id": 0,
+                "video_id": "09851"
+            },
+            {
+                "bbox": [
+                    169,
+                    15,
+                    476,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 15,
+                "signer_id": 90,
+                "source": "aslsignbank",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/65328.mp4",
+                "variation_id": 0,
+                "video_id": "65328"
+            },
+            {
+                "bbox": [
+                    81,
+                    15,
+                    233,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 18,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/09854.mp4",
+                "variation_id": 0,
+                "video_id": "09854"
+            }
+        ]
+    },
+    {
+        "gloss": "go",
+        "instances": [
+            {
+                "bbox": [
+                    268,
+                    38,
+                    898,
+                    720
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 118,
+                "source": "aslbrick",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/69345.mp4",
+                "variation_id": 0,
+                "video_id": "69345"
+            },
+            {
+                "bbox": [
+                    79,
+                    22,
+                    201,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 3,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/24955.mp4",
+                "variation_id": 0,
+                "video_id": "24955"
+            },
+            {
+                "bbox": [
+                    81,
+                    22,
+                    199,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 4,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/24956.mp4",
+                "variation_id": 0,
+                "video_id": "24956"
+            },
+            {
+                "bbox": [
+                    187,
+                    18,
+                    526,
+                    414
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 8,
+                "signer_id": 36,
+                "source": "startasl",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/24941.mp4",
+                "variation_id": 0,
+                "video_id": "24941"
+            },
+            {
+                "bbox": [
+                    78,
+                    25,
+                    214,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 9,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/24960.mp4",
+                "variation_id": 1,
+                "video_id": "24960"
+            },
+            {
+                "bbox": [
+                    78,
+                    25,
+                    214,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 10,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/24961.mp4",
+                "variation_id": 1,
+                "video_id": "24961"
+            },
+            {
+                "bbox": [
+                    88,
+                    25,
+                    217,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 11,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/24962.mp4",
+                "variation_id": 1,
+                "video_id": "24962"
+            },
+            {
+                "bbox": [
+                    149,
+                    9,
+                    591,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 24,
+                "signer_id": 94,
+                "source": "aslsignbank",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/65824.mp4",
+                "variation_id": 0,
+                "video_id": "65824"
+            },
+            {
+                "bbox": [
+                    229,
+                    42,
+                    573,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 25,
+                "signer_id": 41,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/24973.mp4",
+                "variation_id": 0,
+                "video_id": "24973"
+            },
+            {
+                "bbox": [
+                    283,
+                    19,
+                    812,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 26,
+                "signer_id": 52,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/24943.mp4",
+                "variation_id": 0,
+                "video_id": "24943"
+            },
+            {
+                "bbox": [
+                    607,
+                    62,
+                    1534,
+                    1075
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 29,
+                "signer_id": 31,
+                "source": "signschool",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/24946.mp4",
+                "variation_id": 0,
+                "video_id": "24946"
+            },
+            {
+                "bbox": [
+                    58,
+                    2,
+                    557,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 30,
+                "signer_id": 21,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/24947.mp4",
+                "variation_id": 0,
+                "video_id": "24947"
+            },
+            {
+                "bbox": [
+                    37,
+                    1,
+                    284,
+                    240
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 33,
+                "signer_id": 0,
+                "source": "spreadthesign",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/24940.mp4",
+                "variation_id": 0,
+                "video_id": "24940"
+            },
+            {
+                "bbox": [
+                    32,
+                    14,
+                    204,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 37,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/24952.mp4",
+                "variation_id": 1,
+                "video_id": "24952"
+            },
+            {
+                "bbox": [
+                    79,
+                    22,
+                    201,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 39,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/24954.mp4",
+                "variation_id": 0,
+                "video_id": "24954"
+            }
+        ]
+    },
+    {
+        "gloss": "clothes",
+        "instances": [
+            {
+                "bbox": [
+                    403,
+                    67,
+                    893,
+                    720
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 5,
+                "signer_id": 38,
+                "source": "startasl",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/11310.mp4",
+                "variation_id": 0,
+                "video_id": "11310"
+            },
+            {
+                "bbox": [
+                    165,
+                    51,
+                    578,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 7,
+                "signer_id": 12,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/11330.mp4",
+                "variation_id": 0,
+                "video_id": "11330"
+            },
+            {
+                "bbox": [
+                    70,
+                    21,
+                    614,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 8,
+                "signer_id": 59,
+                "source": "asldeafined",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/11311.mp4",
+                "variation_id": 0,
+                "video_id": "11311"
+            },
+            {
+                "bbox": [
+                    56,
+                    8,
+                    243,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 10,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/11313.mp4",
+                "variation_id": 0,
+                "video_id": "11313"
+            },
+            {
+                "bbox": [
+                    21,
+                    2,
+                    304,
+                    240
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 13,
+                "signer_id": 42,
+                "source": "spreadthesign",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/11309.mp4",
+                "variation_id": 0,
+                "video_id": "11309"
+            }
+        ]
+    },
+    {
+        "gloss": "who",
+        "instances": [
+            {
+                "bbox": [
+                    381,
+                    45,
+                    868,
+                    720
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 118,
+                "source": "aslbrick",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/69534.mp4",
+                "variation_id": 0,
+                "video_id": "69534"
+            },
+            {
+                "bbox": [
+                    188,
+                    55,
+                    546,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 7,
+                "signer_id": 12,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/63242.mp4",
+                "variation_id": 0,
+                "video_id": "63242"
+            },
+            {
+                "bbox": [
+                    235,
+                    15,
+                    526,
+                    414
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 8,
+                "signer_id": 36,
+                "source": "startasl",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/63226.mp4",
+                "variation_id": 0,
+                "video_id": "63226"
+            },
+            {
+                "bbox": [
+                    687,
+                    96,
+                    1421,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 9,
+                "signer_id": 6,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/63227.mp4",
+                "variation_id": 0,
+                "video_id": "63227"
+            },
+            {
+                "bbox": [
+                    693,
+                    88,
+                    1401,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 10,
+                "signer_id": 6,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/63228.mp4",
+                "variation_id": 0,
+                "video_id": "63228"
+            },
+            {
+                "bbox": [
+                    655,
+                    72,
+                    1505,
+                    1071
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 11,
+                "signer_id": 4,
+                "source": "signschool",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/63229.mp4",
+                "variation_id": 0,
+                "video_id": "63229"
+            },
+            {
+                "bbox": [
+                    342,
+                    20,
+                    1162,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 12,
+                "signer_id": 46,
+                "source": "signschool",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/63230.mp4",
+                "variation_id": 0,
+                "video_id": "63230"
+            },
+            {
+                "bbox": [
+                    128,
+                    8,
+                    517,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 13,
+                "signer_id": 13,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/63231.mp4",
+                "variation_id": 0,
+                "video_id": "63231"
+            },
+            {
+                "bbox": [
+                    165,
+                    4,
+                    472,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 14,
+                "signer_id": 88,
+                "source": "aslsignbank",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/66778.mp4",
+                "variation_id": 0,
+                "video_id": "66778"
+            },
+            {
+                "bbox": [
+                    112,
+                    28,
+                    507,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 15,
+                "signer_id": 59,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/63232.mp4",
+                "variation_id": 0,
+                "video_id": "63232"
+            },
+            {
+                "bbox": [
+                    167,
+                    3,
+                    471,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 18,
+                "signer_id": 88,
+                "source": "aslsignbank",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/66779.mp4",
+                "variation_id": 0,
+                "video_id": "66779"
+            },
+            {
+                "bbox": [
+                    35,
+                    0,
+                    293,
+                    240
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 20,
+                "signer_id": 42,
+                "source": "spreadthesign",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/63225.mp4",
+                "variation_id": 0,
+                "video_id": "63225"
+            },
+            {
+                "bbox": [
+                    81,
+                    19,
+                    207,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 23,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/63236.mp4",
+                "variation_id": 0,
+                "video_id": "63236"
+            },
+            {
+                "bbox": [
+                    82,
+                    17,
+                    212,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 24,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/63237.mp4",
+                "variation_id": 0,
+                "video_id": "63237"
+            }
+        ]
+    },
+    {
+        "gloss": "candy",
+        "instances": [
+            {
+                "bbox": [
+                    153,
+                    55,
+                    539,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 5,
+                "signer_id": 12,
+                "source": "aslsearch",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/08929.mp4",
+                "variation_id": 1,
+                "video_id": "08929"
+            },
+            {
+                "bbox": [
+                    163,
+                    14,
+                    517,
+                    414
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 6,
+                "signer_id": 36,
+                "source": "startasl",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/08916.mp4",
+                "variation_id": 1,
+                "video_id": "08916"
+            },
+            {
+                "bbox": [
+                    784,
+                    153,
+                    1501,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 7,
+                "signer_id": 39,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/08917.mp4",
+                "variation_id": 0,
+                "video_id": "08917"
+            },
+            {
+                "bbox": [
+                    774,
+                    153,
+                    1499,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 8,
+                "signer_id": 39,
+                "source": "signschool",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/08918.mp4",
+                "variation_id": 0,
+                "video_id": "08918"
+            },
+            {
+                "bbox": [
+                    647,
+                    60,
+                    1538,
+                    1065
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 9,
+                "signer_id": 4,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/08919.mp4",
+                "variation_id": 1,
+                "video_id": "08919"
+            },
+            {
+                "bbox": [
+                    675,
+                    65,
+                    1529,
+                    1060
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 10,
+                "signer_id": 4,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/08920.mp4",
+                "variation_id": 0,
+                "video_id": "08920"
+            },
+            {
+                "bbox": [
+                    66,
+                    24,
+                    572,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 11,
+                "signer_id": 17,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/08921.mp4",
+                "variation_id": 1,
+                "video_id": "08921"
+            },
+            {
+                "bbox": [
+                    186,
+                    15,
+                    467,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 14,
+                "signer_id": 90,
+                "source": "aslsignbank",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/65298.mp4",
+                "variation_id": 0,
+                "video_id": "65298"
+            },
+            {
+                "bbox": [
+                    80,
+                    11,
+                    216,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 15,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/08924.mp4",
+                "variation_id": 0,
+                "video_id": "08924"
+            },
+            {
+                "bbox": [
+                    136,
+                    16,
+                    469,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 16,
+                "signer_id": 90,
+                "source": "aslsignbank",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/65299.mp4",
+                "variation_id": 1,
+                "video_id": "65299"
+            },
+            {
+                "bbox": [
+                    195,
+                    16,
+                    467,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 17,
+                "signer_id": 89,
+                "source": "aslsignbank",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/65300.mp4",
+                "variation_id": 0,
+                "video_id": "65300"
+            },
+            {
+                "bbox": [
+                    23,
+                    0,
+                    286,
+                    240
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 18,
+                "signer_id": 56,
+                "source": "spreadthesign",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/08915.mp4",
+                "variation_id": 1,
+                "video_id": "08915"
+            },
+            {
+                "bbox": [
+                    78,
+                    15,
+                    233,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 21,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/08925.mp4",
+                "variation_id": 1,
+                "video_id": "08925"
+            }
+        ]
+    },
+    {
+        "gloss": "cousin",
+        "instances": [
+            {
+                "bbox": [
+                    134,
+                    17,
+                    491,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 0,
+                "signer_id": 102,
+                "source": "aslsignbank",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/65415.mp4",
+                "variation_id": 0,
+                "video_id": "65415"
+            },
+            {
+                "bbox": [
+                    205,
+                    43,
+                    479,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 3,
+                "signer_id": 41,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/13647.mp4",
+                "variation_id": 0,
+                "video_id": "13647"
+            },
+            {
+                "bbox": [
+                    192,
+                    41,
+                    488,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 4,
+                "signer_id": 41,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/13648.mp4",
+                "variation_id": 0,
+                "video_id": "13648"
+            },
+            {
+                "bbox": [
+                    463,
+                    67,
+                    856,
+                    720
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 5,
+                "signer_id": 38,
+                "source": "startasl",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/13631.mp4",
+                "variation_id": 0,
+                "video_id": "13631"
+            },
+            {
+                "bbox": [
+                    428,
+                    69,
+                    853,
+                    720
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 6,
+                "signer_id": 38,
+                "source": "startasl",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/13632.mp4",
+                "variation_id": 0,
+                "video_id": "13632"
+            },
+            {
+                "bbox": [
+                    297,
+                    16,
+                    772,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 7,
+                "signer_id": 60,
+                "source": "signschool",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/13633.mp4",
+                "variation_id": 0,
+                "video_id": "13633"
+            },
+            {
+                "bbox": [
+                    99,
+                    24,
+                    512,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 8,
+                "signer_id": 59,
+                "source": "asldeafined",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/13634.mp4",
+                "variation_id": 0,
+                "video_id": "13634"
+            },
+            {
+                "bbox": [
+                    59,
+                    25,
+                    528,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 9,
+                "signer_id": 59,
+                "source": "asldeafined",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/13635.mp4",
+                "variation_id": 0,
+                "video_id": "13635"
+            },
+            {
+                "bbox": [
+                    55,
+                    27,
+                    520,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 10,
+                "signer_id": 59,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/13636.mp4",
+                "variation_id": 0,
+                "video_id": "13636"
+            },
+            {
+                "bbox": [
+                    67,
+                    17,
+                    251,
+                    234
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 13,
+                "signer_id": 35,
+                "source": "spreadthesign",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/13630.mp4",
+                "variation_id": 0,
+                "video_id": "13630"
+            },
+            {
+                "bbox": [
+                    52,
+                    9,
+                    225,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 16,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/13640.mp4",
+                "variation_id": 0,
+                "video_id": "13640"
+            },
+            {
+                "bbox": [
+                    79,
+                    8,
+                    222,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 17,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/13641.mp4",
+                "variation_id": 0,
+                "video_id": "13641"
+            },
+            {
+                "bbox": [
+                    54,
+                    9,
+                    222,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 18,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/13642.mp4",
+                "variation_id": 0,
+                "video_id": "13642"
+            },
+            {
+                "bbox": [
+                    174,
+                    36,
+                    487,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 22,
+                "signer_id": 41,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/13646.mp4",
+                "variation_id": 0,
+                "video_id": "13646"
+            }
+        ]
+    },
+    {
+        "gloss": "deaf",
+        "instances": [
+            {
+                "bbox": [
+                    186,
+                    15,
+                    525,
+                    414
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 6,
+                "signer_id": 36,
+                "source": "startasl",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/14882.mp4",
+                "variation_id": 0,
+                "video_id": "14882"
+            },
+            {
+                "bbox": [
+                    170,
+                    62,
+                    532,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 9,
+                "signer_id": 12,
+                "source": "aslsearch",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/14903.mp4",
+                "variation_id": 0,
+                "video_id": "14903"
+            },
+            {
+                "bbox": [
+                    738,
+                    111,
+                    1463,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 10,
+                "signer_id": 45,
+                "source": "signschool",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/14883.mp4",
+                "variation_id": 0,
+                "video_id": "14883"
+            },
+            {
+                "bbox": [
+                    677,
+                    59,
+                    1527,
+                    1061
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 11,
+                "signer_id": 4,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/14884.mp4",
+                "variation_id": 0,
+                "video_id": "14884"
+            },
+            {
+                "bbox": [
+                    727,
+                    115,
+                    1483,
+                    1078
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 12,
+                "signer_id": 45,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/14885.mp4",
+                "variation_id": 0,
+                "video_id": "14885"
+            },
+            {
+                "bbox": [
+                    445,
+                    35,
+                    1030,
+                    709
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 13,
+                "signer_id": 4,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/14886.mp4",
+                "variation_id": 0,
+                "video_id": "14886"
+            },
+            {
+                "bbox": [
+                    170,
+                    15,
+                    476,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 14,
+                "signer_id": 90,
+                "source": "aslsignbank",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/65445.mp4",
+                "variation_id": 0,
+                "video_id": "65445"
+            },
+            {
+                "bbox": [
+                    111,
+                    30,
+                    517,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 15,
+                "signer_id": 59,
+                "source": "asldeafined",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/14887.mp4",
+                "variation_id": 0,
+                "video_id": "14887"
+            },
+            {
+                "bbox": [
+                    95,
+                    28,
+                    530,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 16,
+                "signer_id": 15,
+                "source": "asldeafined",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/14888.mp4",
+                "variation_id": 0,
+                "video_id": "14888"
+            },
+            {
+                "bbox": [
+                    66,
+                    24,
+                    205,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 21,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/14893.mp4",
+                "variation_id": 0,
+                "video_id": "14893"
+            },
+            {
+                "bbox": [
+                    60,
+                    24,
+                    206,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 22,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/14894.mp4",
+                "variation_id": 0,
+                "video_id": "14894"
+            }
+        ]
+    },
+    {
+        "gloss": "fine",
+        "instances": [
+            {
+                "bbox": [
+                    414,
+                    53,
+                    804,
+                    720
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 7,
+                "signer_id": 38,
+                "source": "startasl",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/21870.mp4",
+                "variation_id": 0,
+                "video_id": "21870"
+            },
+            {
+                "bbox": [
+                    166,
+                    54,
+                    515,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 9,
+                "signer_id": 12,
+                "source": "aslsearch",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/21890.mp4",
+                "variation_id": 1,
+                "video_id": "21890"
+            },
+            {
+                "bbox": [
+                    236,
+                    35,
+                    486,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 10,
+                "signer_id": 41,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/21891.mp4",
+                "variation_id": 0,
+                "video_id": "21891"
+            },
+            {
+                "bbox": [
+                    206,
+                    15,
+                    518,
+                    414
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 11,
+                "signer_id": 36,
+                "source": "startasl",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/21871.mp4",
+                "variation_id": 0,
+                "video_id": "21871"
+            },
+            {
+                "bbox": [
+                    344,
+                    10,
+                    770,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 12,
+                "signer_id": 52,
+                "source": "signschool",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/21872.mp4",
+                "variation_id": 0,
+                "video_id": "21872"
+            },
+            {
+                "bbox": [
+                    67,
+                    10,
+                    236,
+                    240
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 13,
+                "signer_id": 2,
+                "source": "spreadthesign",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/21869.mp4",
+                "variation_id": 0,
+                "video_id": "21869"
+            },
+            {
+                "bbox": [
+                    57,
+                    6,
+                    600,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 15,
+                "signer_id": 21,
+                "source": "asldeafined",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/21874.mp4",
+                "variation_id": 1,
+                "video_id": "21874"
+            },
+            {
+                "bbox": [
+                    69,
+                    14,
+                    214,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 19,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/21878.mp4",
+                "variation_id": 0,
+                "video_id": "21878"
+            },
+            {
+                "bbox": [
+                    72,
+                    15,
+                    216,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 26,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/21883.mp4",
+                "variation_id": 1,
+                "video_id": "21883"
+            }
+        ]
+    },
+    {
+        "gloss": "help",
+        "instances": [
+            {
+                "bbox": [
+                    605,
+                    64,
+                    1417,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 115,
+                "source": "aslbrick",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/69364.mp4",
+                "variation_id": 0,
+                "video_id": "69364"
+            },
+            {
+                "bbox": [
+                    198,
+                    56,
+                    563,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 4,
+                "signer_id": 12,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/27221.mp4",
+                "variation_id": 0,
+                "video_id": "27221"
+            },
+            {
+                "bbox": [
+                    211,
+                    16,
+                    525,
+                    414
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 5,
+                "signer_id": 36,
+                "source": "startasl",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/27206.mp4",
+                "variation_id": 0,
+                "video_id": "27206"
+            },
+            {
+                "bbox": [
+                    665,
+                    54,
+                    1608,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 6,
+                "signer_id": 4,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/27207.mp4",
+                "variation_id": 0,
+                "video_id": "27207"
+            },
+            {
+                "bbox": [
+                    80,
+                    14,
+                    536,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 7,
+                "signer_id": 21,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/27208.mp4",
+                "variation_id": 0,
+                "video_id": "27208"
+            },
+            {
+                "bbox": [
+                    66,
+                    20,
+                    607,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 8,
+                "signer_id": 17,
+                "source": "asldeafined",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/27209.mp4",
+                "variation_id": 0,
+                "video_id": "27209"
+            },
+            {
+                "bbox": [
+                    182,
+                    14,
+                    465,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 12,
+                "signer_id": 90,
+                "source": "aslsignbank",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/65890.mp4",
+                "variation_id": 0,
+                "video_id": "65890"
+            },
+            {
+                "bbox": [
+                    92,
+                    24,
+                    202,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 13,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/27213.mp4",
+                "variation_id": 0,
+                "video_id": "27213"
+            },
+            {
+                "bbox": [
+                    77,
+                    3,
+                    220,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 14,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/27214.mp4",
+                "variation_id": 0,
+                "video_id": "27214"
+            },
+            {
+                "bbox": [
+                    188,
+                    14,
+                    463,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 15,
+                "signer_id": 90,
+                "source": "aslsignbank",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/65891.mp4",
+                "variation_id": 0,
+                "video_id": "65891"
+            },
+            {
+                "bbox": [
+                    188,
+                    15,
+                    469,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 16,
+                "signer_id": 90,
+                "source": "aslsignbank",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/65889.mp4",
+                "variation_id": 0,
+                "video_id": "65889"
+            },
+            {
+                "bbox": [
+                    72,
+                    14,
+                    217,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 19,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/27215.mp4",
+                "variation_id": 0,
+                "video_id": "27215"
+            },
+            {
+                "bbox": [
+                    67,
+                    5,
+                    217,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 20,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/27216.mp4",
+                "variation_id": 0,
+                "video_id": "27216"
+            },
+            {
+                "bbox": [
+                    61,
+                    12,
+                    213,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 21,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/27217.mp4",
+                "variation_id": 0,
+                "video_id": "27217"
+            }
+        ]
+    },
+    {
+        "gloss": "no",
+        "instances": [
+            {
+                "bbox": [
+                    274,
+                    43,
+                    875,
+                    720
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 118,
+                "source": "aslbrick",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/69411.mp4",
+                "variation_id": 0,
+                "video_id": "69411"
+            },
+            {
+                "bbox": [
+                    223,
+                    12,
+                    525,
+                    414
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 9,
+                "signer_id": 36,
+                "source": "startasl",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/38525.mp4",
+                "variation_id": 0,
+                "video_id": "38525"
+            },
+            {
+                "bbox": [
+                    258,
+                    38,
+                    509,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 10,
+                "signer_id": 41,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/38544.mp4",
+                "variation_id": 0,
+                "video_id": "38544"
+            },
+            {
+                "bbox": [
+                    777,
+                    24,
+                    1651,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 12,
+                "signer_id": 3,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/38527.mp4",
+                "variation_id": 0,
+                "video_id": "38527"
+            },
+            {
+                "bbox": [
+                    88,
+                    0,
+                    502,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 15,
+                "signer_id": 13,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/38529.mp4",
+                "variation_id": 0,
+                "video_id": "38529"
+            },
+            {
+                "bbox": [
+                    138,
+                    36,
+                    517,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 16,
+                "signer_id": 15,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/38530.mp4",
+                "variation_id": 0,
+                "video_id": "38530"
+            },
+            {
+                "bbox": [
+                    74,
+                    22,
+                    205,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 18,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/38532.mp4",
+                "variation_id": 0,
+                "video_id": "38532"
+            },
+            {
+                "bbox": [
+                    83,
+                    17,
+                    215,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 19,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/38533.mp4",
+                "variation_id": 0,
+                "video_id": "38533"
+            },
+            {
+                "bbox": [
+                    143,
+                    0,
+                    480,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 20,
+                "signer_id": 102,
+                "source": "aslsignbank",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/66183.mp4",
+                "variation_id": 0,
+                "video_id": "66183"
+            },
+            {
+                "bbox": [
+                    54,
+                    0,
+                    261,
+                    240
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 21,
+                "signer_id": 56,
+                "source": "spreadthesign",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/38524.mp4",
+                "variation_id": 0,
+                "video_id": "38524"
+            },
+            {
+                "bbox": [
+                    77,
+                    17,
+                    218,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 23,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/38534.mp4",
+                "variation_id": 0,
+                "video_id": "38534"
+            }
+        ]
+    },
+    {
+        "gloss": "thin",
+        "instances": [
+            {
+                "bbox": [
+                    66,
+                    21,
+                    206,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/57948.mp4",
+                "variation_id": 1,
+                "video_id": "57948"
+            },
+            {
+                "bbox": [
+                    66,
+                    21,
+                    206,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 2,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/57949.mp4",
+                "variation_id": 1,
+                "video_id": "57949"
+            },
+            {
+                "bbox": [
+                    427,
+                    57,
+                    820,
+                    720
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 6,
+                "signer_id": 38,
+                "source": "startasl",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/57934.mp4",
+                "variation_id": 1,
+                "video_id": "57934"
+            },
+            {
+                "bbox": [
+                    214,
+                    53,
+                    566,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 7,
+                "signer_id": 12,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/57953.mp4",
+                "variation_id": 0,
+                "video_id": "57953"
+            },
+            {
+                "bbox": [
+                    437,
+                    57,
+                    825,
+                    720
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 8,
+                "signer_id": 38,
+                "source": "startasl",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/57935.mp4",
+                "variation_id": 0,
+                "video_id": "57935"
+            },
+            {
+                "bbox": [
+                    840,
+                    75,
+                    1596,
+                    1075
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 9,
+                "signer_id": 32,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/57936.mp4",
+                "variation_id": 1,
+                "video_id": "57936"
+            },
+            {
+                "bbox": [
+                    740,
+                    74,
+                    1629,
+                    1076
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 10,
+                "signer_id": 4,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/57937.mp4",
+                "variation_id": 1,
+                "video_id": "57937"
+            },
+            {
+                "bbox": [
+                    183,
+                    26,
+                    437,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 11,
+                "signer_id": 92,
+                "source": "aslsignbank",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/66606.mp4",
+                "variation_id": 1,
+                "video_id": "66606"
+            },
+            {
+                "bbox": [
+                    856,
+                    69,
+                    1733,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 13,
+                "signer_id": 39,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/57939.mp4",
+                "variation_id": 0,
+                "video_id": "57939"
+            },
+            {
+                "bbox": [
+                    690,
+                    97,
+                    1426,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 14,
+                "signer_id": 6,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/57940.mp4",
+                "variation_id": 1,
+                "video_id": "57940"
+            },
+            {
+                "bbox": [
+                    823,
+                    73,
+                    1592,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 15,
+                "signer_id": 32,
+                "source": "signschool",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/57941.mp4",
+                "variation_id": 1,
+                "video_id": "57941"
+            },
+            {
+                "bbox": [
+                    120,
+                    0,
+                    533,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 16,
+                "signer_id": 13,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/57942.mp4",
+                "variation_id": 1,
+                "video_id": "57942"
+            },
+            {
+                "bbox": [
+                    169,
+                    35,
+                    479,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 17,
+                "signer_id": 93,
+                "source": "aslsignbank",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/66607.mp4",
+                "variation_id": 0,
+                "video_id": "66607"
+            },
+            {
+                "bbox": [
+                    59,
+                    0,
+                    282,
+                    240
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 18,
+                "signer_id": 56,
+                "source": "spreadthesign",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/57933.mp4",
+                "variation_id": 0,
+                "video_id": "57933"
+            },
+            {
+                "bbox": [
+                    129,
+                    21,
+                    550,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 20,
+                "signer_id": 34,
+                "source": "asldeafined",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/57943.mp4",
+                "variation_id": 0,
+                "video_id": "57943"
+            },
+            {
+                "bbox": [
+                    90,
+                    24,
+                    227,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 24,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/57947.mp4",
+                "variation_id": 0,
+                "video_id": "57947"
+            }
+        ]
+    },
+    {
+        "gloss": "walk",
+        "instances": [
+            {
+                "bbox": [
+                    201,
+                    38,
+                    529,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 6,
+                "signer_id": 41,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/62175.mp4",
+                "variation_id": 0,
+                "video_id": "62175"
+            },
+            {
+                "bbox": [
+                    209,
+                    14,
+                    581,
+                    414
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 7,
+                "signer_id": 36,
+                "source": "startasl",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/62159.mp4",
+                "variation_id": 0,
+                "video_id": "62159"
+            },
+            {
+                "bbox": [
+                    513,
+                    128,
+                    1847,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 8,
+                "signer_id": 39,
+                "source": "signschool",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/62160.mp4",
+                "variation_id": 0,
+                "video_id": "62160"
+            },
+            {
+                "bbox": [
+                    585,
+                    136,
+                    1828,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 11,
+                "signer_id": 39,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/62163.mp4",
+                "variation_id": 0,
+                "video_id": "62163"
+            },
+            {
+                "bbox": [
+                    122,
+                    0,
+                    592,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 12,
+                "signer_id": 13,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/62164.mp4",
+                "variation_id": 0,
+                "video_id": "62164"
+            },
+            {
+                "bbox": [
+                    202,
+                    29,
+                    478,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 14,
+                "signer_id": 100,
+                "source": "aslsignbank",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/66743.mp4",
+                "variation_id": 0,
+                "video_id": "66743"
+            },
+            {
+                "bbox": [
+                    155,
+                    31,
+                    517,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 17,
+                "signer_id": 107,
+                "source": "aslsignbank",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/66742.mp4",
+                "variation_id": 0,
+                "video_id": "66742"
+            },
+            {
+                "bbox": [
+                    30,
+                    0,
+                    285,
+                    240
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 18,
+                "signer_id": 56,
+                "source": "spreadthesign",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/62158.mp4",
+                "variation_id": 0,
+                "video_id": "62158"
+            },
+            {
+                "bbox": [
+                    76,
+                    17,
+                    237,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 20,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/62168.mp4",
+                "variation_id": 0,
+                "video_id": "62168"
+            },
+            {
+                "bbox": [
+                    73,
+                    16,
+                    239,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 21,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/62169.mp4",
+                "variation_id": 0,
+                "video_id": "62169"
+            },
+            {
+                "bbox": [
+                    57,
+                    16,
+                    224,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 22,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/62170.mp4",
+                "variation_id": 0,
+                "video_id": "62170"
+            }
+        ]
+    },
+    {
+        "gloss": "year",
+        "instances": [
+            {
+                "bbox": [
+                    565,
+                    54,
+                    1534,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 4,
+                "source": "signschool",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/64211.mp4",
+                "variation_id": 0,
+                "video_id": "64211"
+            },
+            {
+                "bbox": [
+                    176,
+                    52,
+                    537,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 7,
+                "signer_id": 12,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/64224.mp4",
+                "variation_id": 0,
+                "video_id": "64224"
+            },
+            {
+                "bbox": [
+                    229,
+                    13,
+                    548,
+                    414
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 8,
+                "signer_id": 36,
+                "source": "startasl",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/64210.mp4",
+                "variation_id": 0,
+                "video_id": "64210"
+            },
+            {
+                "bbox": [
+                    642,
+                    59,
+                    1646,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 10,
+                "signer_id": 4,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/64212.mp4",
+                "variation_id": 0,
+                "video_id": "64212"
+            },
+            {
+                "bbox": [
+                    157,
+                    8,
+                    461,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 11,
+                "signer_id": 88,
+                "source": "aslsignbank",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/66818.mp4",
+                "variation_id": 0,
+                "video_id": "66818"
+            },
+            {
+                "bbox": [
+                    82,
+                    0,
+                    535,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 12,
+                "signer_id": 13,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/64213.mp4",
+                "variation_id": 0,
+                "video_id": "64213"
+            },
+            {
+                "bbox": [
+                    188,
+                    33,
+                    482,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 13,
+                "signer_id": 93,
+                "source": "aslsignbank",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/66816.mp4",
+                "variation_id": 0,
+                "video_id": "66816"
+            },
+            {
+                "bbox": [
+                    52,
+                    0,
+                    274,
+                    240
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 15,
+                "signer_id": 42,
+                "source": "spreadthesign",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/64209.mp4",
+                "variation_id": 0,
+                "video_id": "64209"
+            },
+            {
+                "bbox": [
+                    88,
+                    16,
+                    226,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 20,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/64219.mp4",
+                "variation_id": 0,
+                "video_id": "64219"
+            },
+            {
+                "bbox": [
+                    72,
+                    15,
+                    221,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 21,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/64218.mp4",
+                "variation_id": 0,
+                "video_id": "64218"
+            }
+        ]
+    },
+    {
+        "gloss": "yes",
+        "instances": [
+            {
+                "bbox": [
+                    214,
+                    41,
+                    881,
+                    720
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 118,
+                "source": "aslbrick",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/69546.mp4",
+                "variation_id": 0,
+                "video_id": "69546"
+            },
+            {
+                "bbox": [
+                    120,
+                    4,
+                    526,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 2,
+                "signer_id": 13,
+                "source": "asldeafined",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/64287.mp4",
+                "variation_id": 0,
+                "video_id": "64287"
+            },
+            {
+                "bbox": [
+                    724,
+                    29,
+                    1675,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 5,
+                "signer_id": 3,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/64284.mp4",
+                "variation_id": 0,
+                "video_id": "64284"
+            },
+            {
+                "bbox": [
+                    81,
+                    25,
+                    212,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 6,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/64291.mp4",
+                "variation_id": 0,
+                "video_id": "64291"
+            },
+            {
+                "bbox": [
+                    79,
+                    23,
+                    212,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 8,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/64292.mp4",
+                "variation_id": 0,
+                "video_id": "64292"
+            },
+            {
+                "bbox": [
+                    70,
+                    20,
+                    212,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 9,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/64293.mp4",
+                "variation_id": 0,
+                "video_id": "64293"
+            },
+            {
+                "bbox": [
+                    168,
+                    14,
+                    461,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 13,
+                "signer_id": 88,
+                "source": "aslsignbank",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/66820.mp4",
+                "variation_id": 0,
+                "video_id": "66820"
+            },
+            {
+                "bbox": [
+                    20,
+                    13,
+                    258,
+                    240
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 15,
+                "signer_id": 28,
+                "source": "spreadthesign",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/64280.mp4",
+                "variation_id": 0,
+                "video_id": "64280"
+            },
+            {
+                "bbox": [
+                    235,
+                    44,
+                    478,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 18,
+                "signer_id": 41,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/64300.mp4",
+                "variation_id": 0,
+                "video_id": "64300"
+            },
+            {
+                "bbox": [
+                    222,
+                    13,
+                    524,
+                    414
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 19,
+                "signer_id": 36,
+                "source": "startasl",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/64281.mp4",
+                "variation_id": 0,
+                "video_id": "64281"
+            },
+            {
+                "bbox": [
+                    143,
+                    25,
+                    514,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 20,
+                "signer_id": 15,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/64288.mp4",
+                "variation_id": 0,
+                "video_id": "64288"
+            },
+            {
+                "bbox": [
+                    625,
+                    111,
+                    1483,
+                    1063
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 23,
+                "signer_id": 4,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/64283.mp4",
+                "variation_id": 0,
+                "video_id": "64283"
+            }
+        ]
+    },
+    {
+        "gloss": "all",
+        "instances": [
+            {
+                "bbox": [
+                    439,
+                    68,
+                    1366,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 115,
+                "source": "aslbrick",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/69206.mp4",
+                "variation_id": 0,
+                "video_id": "69206"
+            },
+            {
+                "bbox": [
+                    171,
+                    49,
+                    564,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 5,
+                "signer_id": 12,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/02003.mp4",
+                "variation_id": 0,
+                "video_id": "02003"
+            },
+            {
+                "bbox": [
+                    351,
+                    53,
+                    821,
+                    720
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 6,
+                "signer_id": 38,
+                "source": "startasl",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/01987.mp4",
+                "variation_id": 0,
+                "video_id": "01987"
+            },
+            {
+                "bbox": [
+                    32,
+                    13,
+                    543,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 7,
+                "signer_id": 13,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/01988.mp4",
+                "variation_id": 0,
+                "video_id": "01988"
+            },
+            {
+                "bbox": [
+                    43,
+                    22,
+                    221,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 10,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/01991.mp4",
+                "variation_id": 1,
+                "video_id": "01991"
+            },
+            {
+                "bbox": [
+                    47,
+                    23,
+                    228,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 11,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/01992.mp4",
+                "variation_id": 0,
+                "video_id": "01992"
+            },
+            {
+                "bbox": [
+                    149,
+                    10,
+                    464,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 14,
+                "signer_id": 88,
+                "source": "aslsignbank",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/65043.mp4",
+                "variation_id": 0,
+                "video_id": "65043"
+            },
+            {
+                "bbox": [
+                    43,
+                    0,
+                    269,
+                    240
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 16,
+                "signer_id": 2,
+                "source": "spreadthesign",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/01986.mp4",
+                "variation_id": 0,
+                "video_id": "01986"
+            }
+        ]
+    },
+    {
+        "gloss": "black",
+        "instances": [
+            {
+                "bbox": [
+                    295,
+                    38,
+                    885,
+                    720
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 118,
+                "source": "aslbrick",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/69236.mp4",
+                "variation_id": 0,
+                "video_id": "69236"
+            },
+            {
+                "bbox": [
+                    205,
+                    17,
+                    524,
+                    414
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 4,
+                "signer_id": 36,
+                "source": "startasl",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/06472.mp4",
+                "variation_id": 0,
+                "video_id": "06472"
+            },
+            {
+                "bbox": [
+                    544,
+                    60,
+                    1618,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 5,
+                "signer_id": 4,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/06473.mp4",
+                "variation_id": 0,
+                "video_id": "06473"
+            },
+            {
+                "bbox": [
+                    77,
+                    18,
+                    515,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 6,
+                "signer_id": 59,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/06474.mp4",
+                "variation_id": 0,
+                "video_id": "06474"
+            },
+            {
+                "bbox": [
+                    58,
+                    15,
+                    216,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 8,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/06476.mp4",
+                "variation_id": 0,
+                "video_id": "06476"
+            },
+            {
+                "bbox": [
+                    48,
+                    11,
+                    226,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 9,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/06477.mp4",
+                "variation_id": 0,
+                "video_id": "06477"
+            },
+            {
+                "bbox": [
+                    63,
+                    8,
+                    245,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 10,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/06478.mp4",
+                "variation_id": 0,
+                "video_id": "06478"
+            },
+            {
+                "bbox": [
+                    149,
+                    24,
+                    479,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 13,
+                "signer_id": 90,
+                "source": "aslsignbank",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/65200.mp4",
+                "variation_id": 0,
+                "video_id": "65200"
+            },
+            {
+                "bbox": [
+                    66,
+                    13,
+                    258,
+                    240
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 14,
+                "signer_id": 56,
+                "source": "spreadthesign",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/06471.mp4",
+                "variation_id": 0,
+                "video_id": "06471"
+            },
+            {
+                "bbox": [
+                    131,
+                    52,
+                    555,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 21,
+                "signer_id": 12,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/06486.mp4",
+                "variation_id": 0,
+                "video_id": "06486"
+            }
+        ]
+    },
+    {
+        "gloss": "cool",
+        "instances": [
+            {
+                "bbox": [
+                    148,
+                    9,
+                    605,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 0,
+                "signer_id": 116,
+                "source": "aslbrick",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/69281.mp4",
+                "variation_id": 0,
+                "video_id": "69281"
+            },
+            {
+                "bbox": [
+                    175,
+                    17,
+                    495,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 102,
+                "source": "aslsignbank",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/65403.mp4",
+                "variation_id": 0,
+                "video_id": "65403"
+            },
+            {
+                "bbox": [
+                    73,
+                    16,
+                    215,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 3,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/13213.mp4",
+                "variation_id": 1,
+                "video_id": "13213"
+            },
+            {
+                "bbox": [
+                    504,
+                    69,
+                    1606,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 6,
+                "signer_id": 4,
+                "source": "signschool",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/13197.mp4",
+                "variation_id": 0,
+                "video_id": "13197"
+            },
+            {
+                "bbox": [
+                    154,
+                    51,
+                    527,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 7,
+                "signer_id": 12,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/13216.mp4",
+                "variation_id": 1,
+                "video_id": "13216"
+            },
+            {
+                "bbox": [
+                    161,
+                    50,
+                    520,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 8,
+                "signer_id": 12,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/13217.mp4",
+                "variation_id": 2,
+                "video_id": "13217"
+            },
+            {
+                "bbox": [
+                    822,
+                    84,
+                    1608,
+                    1052
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 9,
+                "signer_id": 4,
+                "source": "signschool",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/13198.mp4",
+                "variation_id": 2,
+                "video_id": "13198"
+            },
+            {
+                "bbox": [
+                    609,
+                    80,
+                    1589,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 10,
+                "signer_id": 4,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/13199.mp4",
+                "variation_id": 1,
+                "video_id": "13199"
+            },
+            {
+                "bbox": [
+                    586,
+                    95,
+                    1564,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 11,
+                "signer_id": 4,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/13200.mp4",
+                "variation_id": 0,
+                "video_id": "13200"
+            },
+            {
+                "bbox": [
+                    125,
+                    18,
+                    533,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 12,
+                "signer_id": 59,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/13201.mp4",
+                "variation_id": 1,
+                "video_id": "13201"
+            },
+            {
+                "bbox": [
+                    163,
+                    19,
+                    476,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 13,
+                "signer_id": 99,
+                "source": "aslsignbank",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/65402.mp4",
+                "variation_id": 0,
+                "video_id": "65402"
+            },
+            {
+                "bbox": [
+                    114,
+                    30,
+                    509,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 14,
+                "signer_id": 59,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/13202.mp4",
+                "variation_id": 0,
+                "video_id": "13202"
+            },
+            {
+                "bbox": [
+                    73,
+                    31,
+                    560,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 15,
+                "signer_id": 17,
+                "source": "asldeafined",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/13203.mp4",
+                "variation_id": 2,
+                "video_id": "13203"
+            },
+            {
+                "bbox": [
+                    608,
+                    85,
+                    1596,
+                    1077
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 18,
+                "signer_id": 4,
+                "source": "signschool",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/13196.mp4",
+                "variation_id": 0,
+                "video_id": "13196"
+            },
+            {
+                "bbox": [
+                    85,
+                    20,
+                    219,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 21,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/13208.mp4",
+                "variation_id": 0,
+                "video_id": "13208"
+            },
+            {
+                "bbox": [
+                    73,
+                    21,
+                    200,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 22,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/13209.mp4",
+                "variation_id": 2,
+                "video_id": "13209"
+            }
+        ]
+    },
+    {
+        "gloss": "finish",
+        "instances": [
+            {
+                "bbox": [
+                    232,
+                    15,
+                    533,
+                    414
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 6,
+                "signer_id": 36,
+                "source": "startasl",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/21942.mp4",
+                "variation_id": 0,
+                "video_id": "21942"
+            },
+            {
+                "bbox": [
+                    757,
+                    52,
+                    1564,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 7,
+                "signer_id": 32,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/21943.mp4",
+                "variation_id": 1,
+                "video_id": "21943"
+            },
+            {
+                "bbox": [
+                    734,
+                    126,
+                    1442,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 8,
+                "signer_id": 45,
+                "source": "signschool",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/21944.mp4",
+                "variation_id": 1,
+                "video_id": "21944"
+            },
+            {
+                "bbox": [
+                    62,
+                    5,
+                    564,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 9,
+                "signer_id": 21,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/21945.mp4",
+                "variation_id": 0,
+                "video_id": "21945"
+            },
+            {
+                "bbox": [
+                    94,
+                    23,
+                    208,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 13,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/21949.mp4",
+                "variation_id": 1,
+                "video_id": "21949"
+            },
+            {
+                "bbox": [
+                    74,
+                    13,
+                    227,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 14,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/21950.mp4",
+                "variation_id": 0,
+                "video_id": "21950"
+            },
+            {
+                "bbox": [
+                    136,
+                    14,
+                    521,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 15,
+                "signer_id": 94,
+                "source": "aslsignbank",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/65721.mp4",
+                "variation_id": 0,
+                "video_id": "65721"
+            },
+            {
+                "bbox": [
+                    57,
+                    0,
+                    271,
+                    240
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 16,
+                "signer_id": 37,
+                "source": "spreadthesign",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/21941.mp4",
+                "variation_id": 0,
+                "video_id": "21941"
+            },
+            {
+                "bbox": [
+                    96,
+                    16,
+                    231,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 18,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/21951.mp4",
+                "variation_id": 1,
+                "video_id": "21951"
+            }
+        ]
+    },
+    {
+        "gloss": "hot",
+        "instances": [
+            {
+                "bbox": [
+                    284,
+                    42,
+                    886,
+                    720
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 118,
+                "source": "aslbrick",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/69368.mp4",
+                "variation_id": 0,
+                "video_id": "69368"
+            },
+            {
+                "bbox": [
+                    197,
+                    49,
+                    571,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 3,
+                "signer_id": 12,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/28125.mp4",
+                "variation_id": 0,
+                "video_id": "28125"
+            },
+            {
+                "bbox": [
+                    229,
+                    17,
+                    521,
+                    414
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 4,
+                "signer_id": 36,
+                "source": "startasl",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/28108.mp4",
+                "variation_id": 0,
+                "video_id": "28108"
+            },
+            {
+                "bbox": [
+                    351,
+                    11,
+                    818,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 5,
+                "signer_id": 52,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/28109.mp4",
+                "variation_id": 0,
+                "video_id": "28109"
+            },
+            {
+                "bbox": [
+                    657,
+                    78,
+                    1430,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 6,
+                "signer_id": 6,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/28110.mp4",
+                "variation_id": 0,
+                "video_id": "28110"
+            },
+            {
+                "bbox": [
+                    544,
+                    128,
+                    1596,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 7,
+                "signer_id": 39,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/28111.mp4",
+                "variation_id": 0,
+                "video_id": "28111"
+            },
+            {
+                "bbox": [
+                    61,
+                    4,
+                    500,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 8,
+                "signer_id": 21,
+                "source": "asldeafined",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/28112.mp4",
+                "variation_id": 0,
+                "video_id": "28112"
+            },
+            {
+                "bbox": [
+                    65,
+                    9,
+                    207,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 11,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/28115.mp4",
+                "variation_id": 0,
+                "video_id": "28115"
+            },
+            {
+                "bbox": [
+                    64,
+                    11,
+                    221,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 12,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/28116.mp4",
+                "variation_id": 0,
+                "video_id": "28116"
+            },
+            {
+                "bbox": [
+                    51,
+                    0,
+                    250,
+                    240
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 13,
+                "signer_id": 0,
+                "source": "spreadthesign",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/28107.mp4",
+                "variation_id": 0,
+                "video_id": "28107"
+            }
+        ]
+    },
+    {
+        "gloss": "like",
+        "instances": [
+            {
+                "bbox": [
+                    344,
+                    36,
+                    876,
+                    720
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 0,
+                "signer_id": 118,
+                "source": "aslbrick",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/69389.mp4",
+                "variation_id": 0,
+                "video_id": "69389"
+            },
+            {
+                "bbox": [
+                    68,
+                    3,
+                    234,
+                    240
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 8,
+                "source": "spreadthesign",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/33266.mp4",
+                "variation_id": 1,
+                "video_id": "33266"
+            },
+            {
+                "bbox": [
+                    189,
+                    57,
+                    540,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 4,
+                "signer_id": 12,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/33285.mp4",
+                "variation_id": 0,
+                "video_id": "33285"
+            },
+            {
+                "bbox": [
+                    408,
+                    49,
+                    805,
+                    720
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 5,
+                "signer_id": 38,
+                "source": "startasl",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/33267.mp4",
+                "variation_id": 0,
+                "video_id": "33267"
+            },
+            {
+                "bbox": [
+                    184,
+                    61,
+                    541,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 6,
+                "signer_id": 12,
+                "source": "aslsearch",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/33286.mp4",
+                "variation_id": 1,
+                "video_id": "33286"
+            },
+            {
+                "bbox": [
+                    237,
+                    13,
+                    584,
+                    360
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 7,
+                "signer_id": 60,
+                "source": "signschool",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/33268.mp4",
+                "variation_id": 0,
+                "video_id": "33268"
+            },
+            {
+                "bbox": [
+                    132,
+                    0,
+                    506,
+                    477
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 8,
+                "signer_id": 13,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/33269.mp4",
+                "variation_id": 0,
+                "video_id": "33269"
+            },
+            {
+                "bbox": [
+                    114,
+                    0,
+                    523,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 9,
+                "signer_id": 13,
+                "source": "asldeafined",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/33270.mp4",
+                "variation_id": 1,
+                "video_id": "33270"
+            },
+            {
+                "bbox": [
+                    70,
+                    11,
+                    209,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 12,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/33273.mp4",
+                "variation_id": 1,
+                "video_id": "33273"
+            },
+            {
+                "bbox": [
+                    73,
+                    14,
+                    213,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 13,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/33274.mp4",
+                "variation_id": 0,
+                "video_id": "33274"
+            }
+        ]
+    },
+    {
+        "gloss": "many",
+        "instances": [
+            {
+                "bbox": [
+                    374,
+                    52,
+                    902,
+                    720
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 118,
+                "source": "aslbrick",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/69396.mp4",
+                "variation_id": 0,
+                "video_id": "69396"
+            },
+            {
+                "bbox": [
+                    26,
+                    4,
+                    278,
+                    240
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 3,
+                "signer_id": 2,
+                "source": "spreadthesign",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/34823.mp4",
+                "variation_id": 0,
+                "video_id": "34823"
+            },
+            {
+                "bbox": [
+                    426,
+                    54,
+                    796,
+                    720
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 4,
+                "signer_id": 38,
+                "source": "startasl",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/34824.mp4",
+                "variation_id": 0,
+                "video_id": "34824"
+            },
+            {
+                "bbox": [
+                    552,
+                    55,
+                    1533,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 5,
+                "signer_id": 6,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/34825.mp4",
+                "variation_id": 0,
+                "video_id": "34825"
+            },
+            {
+                "bbox": [
+                    659,
+                    80,
+                    1618,
+                    1072
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 6,
+                "signer_id": 6,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/34826.mp4",
+                "variation_id": 0,
+                "video_id": "34826"
+            },
+            {
+                "bbox": [
+                    124,
+                    0,
+                    523,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 7,
+                "signer_id": 13,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/34827.mp4",
+                "variation_id": 0,
+                "video_id": "34827"
+            },
+            {
+                "bbox": [
+                    82,
+                    14,
+                    221,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 10,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/34830.mp4",
+                "variation_id": 0,
+                "video_id": "34830"
+            },
+            {
+                "bbox": [
+                    84,
+                    11,
+                    230,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 11,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/34831.mp4",
+                "variation_id": 0,
+                "video_id": "34831"
+            },
+            {
+                "bbox": [
+                    86,
+                    12,
+                    228,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 13,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/34832.mp4",
+                "variation_id": 0,
+                "video_id": "34832"
+            },
+            {
+                "bbox": [
+                    223,
+                    39,
+                    471,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 20,
+                "signer_id": 41,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/34839.mp4",
+                "variation_id": 0,
+                "video_id": "34839"
+            }
+        ]
+    },
+    {
+        "gloss": "mother",
+        "instances": [
+            {
+                "bbox": [
+                    172,
+                    21,
+                    476,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 116,
+                "source": "aslbrick",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/69402.mp4",
+                "variation_id": 0,
+                "video_id": "69402"
+            },
+            {
+                "bbox": [
+                    218,
+                    38,
+                    468,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 3,
+                "signer_id": 41,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/36946.mp4",
+                "variation_id": 0,
+                "video_id": "36946"
+            },
+            {
+                "bbox": [
+                    214,
+                    17,
+                    520,
+                    414
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 4,
+                "signer_id": 36,
+                "source": "startasl",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/36930.mp4",
+                "variation_id": 0,
+                "video_id": "36930"
+            },
+            {
+                "bbox": [
+                    715,
+                    59,
+                    1630,
+                    1071
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 5,
+                "signer_id": 4,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/36931.mp4",
+                "variation_id": 0,
+                "video_id": "36931"
+            },
+            {
+                "bbox": [
+                    205,
+                    17,
+                    588,
+                    360
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 6,
+                "signer_id": 52,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/36932.mp4",
+                "variation_id": 0,
+                "video_id": "36932"
+            },
+            {
+                "bbox": [
+                    150,
+                    0,
+                    502,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 7,
+                "signer_id": 13,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/36933.mp4",
+                "variation_id": 0,
+                "video_id": "36933"
+            },
+            {
+                "bbox": [
+                    69,
+                    16,
+                    210,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 9,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/36936.mp4",
+                "variation_id": 0,
+                "video_id": "36936"
+            },
+            {
+                "bbox": [
+                    72,
+                    18,
+                    210,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 10,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/36937.mp4",
+                "variation_id": 0,
+                "video_id": "36937"
+            },
+            {
+                "bbox": [
+                    136,
+                    27,
+                    465,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 12,
+                "signer_id": 97,
+                "source": "aslsignbank",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/66147.mp4",
+                "variation_id": 0,
+                "video_id": "66147"
+            },
+            {
+                "bbox": [
+                    190,
+                    13,
+                    462,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 13,
+                "signer_id": 90,
+                "source": "aslsignbank",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/66146.mp4",
+                "variation_id": 0,
+                "video_id": "66146"
+            },
+            {
+                "bbox": [
+                    48,
+                    0,
+                    263,
+                    240
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 14,
+                "signer_id": 56,
+                "source": "spreadthesign",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/36929.mp4",
+                "variation_id": 0,
+                "video_id": "36929"
+            }
+        ]
+    },
+    {
+        "gloss": "now",
+        "instances": [
+            {
+                "bbox": [
+                    340,
+                    40,
+                    954,
+                    720
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 118,
+                "source": "aslbrick",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/69413.mp4",
+                "variation_id": 0,
+                "video_id": "69413"
+            },
+            {
+                "bbox": [
+                    251,
+                    12,
+                    761,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 2,
+                "signer_id": 70,
+                "source": "signschool",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/38994.mp4",
+                "variation_id": 0,
+                "video_id": "38994"
+            },
+            {
+                "bbox": [
+                    85,
+                    19,
+                    229,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 8,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/38999.mp4",
+                "variation_id": 0,
+                "video_id": "38999"
+            },
+            {
+                "bbox": [
+                    64,
+                    12,
+                    213,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 9,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/39000.mp4",
+                "variation_id": 0,
+                "video_id": "39000"
+            },
+            {
+                "bbox": [
+                    58,
+                    2,
+                    262,
+                    240
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 13,
+                "signer_id": 2,
+                "source": "spreadthesign",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/38990.mp4",
+                "variation_id": 0,
+                "video_id": "38990"
+            },
+            {
+                "bbox": [
+                    200,
+                    52,
+                    569,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 17,
+                "signer_id": 12,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/39006.mp4",
+                "variation_id": 0,
+                "video_id": "39006"
+            },
+            {
+                "bbox": [
+                    46,
+                    1,
+                    273,
+                    240
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 18,
+                "signer_id": 56,
+                "source": "spreadthesign",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/38991.mp4",
+                "variation_id": 0,
+                "video_id": "38991"
+            },
+            {
+                "bbox": [
+                    124,
+                    0,
+                    532,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 19,
+                "signer_id": 13,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/38995.mp4",
+                "variation_id": 0,
+                "video_id": "38995"
+            },
+            {
+                "bbox": [
+                    78,
+                    20,
+                    219,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 22,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/38997.mp4",
+                "variation_id": 0,
+                "video_id": "38997"
+            }
+        ]
+    },
+    {
+        "gloss": "orange",
+        "instances": [
+            {
+                "bbox": [
+                    363,
+                    40,
+                    871,
+                    720
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 118,
+                "source": "aslbrick",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/69422.mp4",
+                "variation_id": 0,
+                "video_id": "69422"
+            },
+            {
+                "bbox": [
+                    82,
+                    32,
+                    233,
+                    240
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 6,
+                "signer_id": 2,
+                "source": "spreadthesign",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/40115.mp4",
+                "variation_id": 0,
+                "video_id": "40115"
+            },
+            {
+                "bbox": [
+                    223,
+                    16,
+                    527,
+                    414
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 7,
+                "signer_id": 36,
+                "source": "startasl",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/40116.mp4",
+                "variation_id": 0,
+                "video_id": "40116"
+            },
+            {
+                "bbox": [
+                    910,
+                    68,
+                    1734,
+                    1056
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 8,
+                "signer_id": 39,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/40117.mp4",
+                "variation_id": 0,
+                "video_id": "40117"
+            },
+            {
+                "bbox": [
+                    140,
+                    0,
+                    497,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 9,
+                "signer_id": 13,
+                "source": "asldeafined",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/40118.mp4",
+                "variation_id": 0,
+                "video_id": "40118"
+            },
+            {
+                "bbox": [
+                    140,
+                    0,
+                    497,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 10,
+                "signer_id": 13,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/40119.mp4",
+                "variation_id": 0,
+                "video_id": "40119"
+            },
+            {
+                "bbox": [
+                    81,
+                    10,
+                    222,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 12,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/40121.mp4",
+                "variation_id": 0,
+                "video_id": "40121"
+            },
+            {
+                "bbox": [
+                    146,
+                    2,
+                    484,
+                    370
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 15,
+                "signer_id": 107,
+                "source": "aslsignbank",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/66246.mp4",
+                "variation_id": 0,
+                "video_id": "66246"
+            },
+            {
+                "bbox": [
+                    175,
+                    50,
+                    531,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 22,
+                "signer_id": 12,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/40129.mp4",
+                "variation_id": 0,
+                "video_id": "40129"
+            },
+            {
+                "bbox": [
+                    175,
+                    50,
+                    531,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 23,
+                "signer_id": 12,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/40130.mp4",
+                "variation_id": 0,
+                "video_id": "40130"
+            }
+        ]
+    },
+    {
+        "gloss": "table",
+        "instances": [
+            {
+                "bbox": [
+                    558,
+                    75,
+                    1619,
+                    1080
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 6,
+                "signer_id": 4,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/56557.mp4",
+                "variation_id": 0,
+                "video_id": "56557"
+            },
+            {
+                "bbox": [
+                    159,
+                    60,
+                    542,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 10,
+                "signer_id": 12,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/56579.mp4",
+                "variation_id": 0,
+                "video_id": "56579"
+            },
+            {
+                "bbox": [
+                    88,
+                    0,
+                    599,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 11,
+                "signer_id": 13,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/56558.mp4",
+                "variation_id": 0,
+                "video_id": "56558"
+            },
+            {
+                "bbox": [
+                    374,
+                    52,
+                    810,
+                    720
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 13,
+                "signer_id": 38,
+                "source": "startasl",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/56556.mp4",
+                "variation_id": 0,
+                "video_id": "56556"
+            },
+            {
+                "bbox": [
+                    65,
+                    18,
+                    213,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 17,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/56563.mp4",
+                "variation_id": 0,
+                "video_id": "56563"
+            }
+        ]
+    },
+    {
+        "gloss": "thanksgiving",
+        "instances": [
+            {
+                "bbox": [
+                    79,
+                    10,
+                    242,
+                    180
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 4,
+                "signer_id": 19,
+                "source": "elementalasl",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/57628.mp4",
+                "variation_id": 1,
+                "video_id": "57628"
+            },
+            {
+                "bbox": [
+                    171,
+                    50,
+                    538,
+                    400
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 5,
+                "signer_id": 12,
+                "source": "aslsearch",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/57647.mp4",
+                "variation_id": 0,
+                "video_id": "57647"
+            },
+            {
+                "bbox": [
+                    41,
+                    13,
+                    251,
+                    240
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 6,
+                "signer_id": 2,
+                "source": "spreadthesign",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/57629.mp4",
+                "variation_id": 0,
+                "video_id": "57629"
+            },
+            {
+                "bbox": [
+                    402,
+                    56,
+                    823,
+                    720
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 7,
+                "signer_id": 38,
+                "source": "startasl",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/57630.mp4",
+                "variation_id": 0,
+                "video_id": "57630"
+            },
+            {
+                "bbox": [
+                    406,
+                    54,
+                    825,
+                    720
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 8,
+                "signer_id": 38,
+                "source": "startasl",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/57631.mp4",
+                "variation_id": 1,
+                "video_id": "57631"
+            },
+            {
+                "bbox": [
+                    689,
+                    87,
+                    1577,
+                    1074
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 9,
+                "signer_id": 4,
+                "source": "signschool",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/57632.mp4",
+                "variation_id": 0,
+                "video_id": "57632"
+            },
+            {
+                "bbox": [
+                    131,
+                    0,
+                    560,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 10,
+                "signer_id": 13,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/57633.mp4",
+                "variation_id": 1,
+                "video_id": "57633"
+            },
+            {
+                "bbox": [
+                    121,
+                    31,
+                    528,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 11,
+                "signer_id": 15,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/57634.mp4",
+                "variation_id": 0,
+                "video_id": "57634"
+            },
+            {
+                "bbox": [
+                    150,
+                    24,
+                    521,
+                    480
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 13,
+                "signer_id": 15,
+                "source": "asldeafined",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/57635.mp4",
+                "variation_id": 0,
+                "video_id": "57635"
+            },
+            {
+                "bbox": [
+                    94,
+                    19,
+                    238,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 16,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/57638.mp4",
+                "variation_id": 1,
+                "video_id": "57638"
+            },
+            {
+                "bbox": [
+                    66,
+                    15,
+                    209,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 17,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "val",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/57639.mp4",
+                "variation_id": 0,
+                "video_id": "57639"
+            },
+            {
+                "bbox": [
+                    65,
+                    16,
+                    209,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 18,
+                "signer_id": 10,
+                "source": "signingsavvy",
+                "split": "test",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/57640.mp4",
+                "variation_id": 0,
+                "video_id": "57640"
+            },
+            {
+                "bbox": [
+                    64,
+                    16,
+                    214,
+                    192
+                ],
+                "fps": 25,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 19,
+                "signer_id": 11,
+                "source": "signingsavvy",
+                "split": "train",
+                "url": "C:/Users/shaga/Desktop/Thesis/videos/57641.mp4",
+                "variation_id": 0,
+                "video_id": "57641"
+            }
+        ]
+    }
+]

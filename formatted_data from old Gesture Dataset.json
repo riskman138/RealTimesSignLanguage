@@ -1,0 +1,2340 @@
+[
+    {
+        "gloss": "book",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\69241.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "book",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\07069.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "book",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\07068.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "book",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\07070.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "book",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\07099.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "book",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\07074.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "drink",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\69302.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "drink",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\65539.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "drink",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\17710.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "drink",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\17733.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "drink",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\65540.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "drink",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\17734.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "drink",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\17711.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "drink",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\17712.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "drink",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\17713.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "drink",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\17709.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "drink",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\17720.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "drink",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\17721.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "drink",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\17722.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "drink",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\17723.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "drink",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\17724.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "computer",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\12328.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "computer",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\12312.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "computer",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\12311.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "computer",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\12338.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "computer",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\12313.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "computer",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\12314.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "computer",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\12315.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "computer",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\12316.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "computer",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\12317.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "computer",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\12318.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "computer",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\12319.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "computer",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\12320.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "computer",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\12326.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "computer",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\12327.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "before",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\05728.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "before",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\05749.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "before",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\05750.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "before",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\05729.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "before",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\05730.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "before",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\65167.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "before",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\05731.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "before",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\05732.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "before",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\05733.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "before",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\05734.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "before",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\05727.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "before",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\05739.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "before",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\05740.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "before",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\05741.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "before",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\05742.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "before",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\05743.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "chair",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\09848.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "chair",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\09869.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "chair",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\09849.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "chair",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\09850.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "chair",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\09851.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "chair",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\65328.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "chair",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\09854.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "go",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\69345.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "go",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\24955.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "go",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\24956.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "go",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\24941.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "go",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\24960.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "go",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\24961.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "go",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\24962.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "go",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\65824.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "go",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\24973.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "go",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\24943.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "go",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\24946.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "go",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\24947.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "go",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\24940.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "go",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\24952.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "go",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\24954.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "clothes",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\11310.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "clothes",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\11330.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "clothes",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\11311.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "clothes",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\11313.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "clothes",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\11309.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "who",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\69534.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "who",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\63242.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "who",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\63226.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "who",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\63227.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "who",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\63228.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "who",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\63229.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "who",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\63230.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "who",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\63231.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "who",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\66778.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "who",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\63232.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "who",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\66779.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "who",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\63225.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "who",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\63236.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "who",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\63237.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "candy",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\08929.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "candy",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\08916.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "candy",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\08917.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "candy",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\08918.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "candy",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\08919.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "candy",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\08920.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "candy",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\08921.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "candy",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\65298.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "candy",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\08924.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "candy",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\65299.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "candy",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\65300.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "candy",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\08915.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "candy",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\08925.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "cousin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\65415.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "cousin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\13647.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "cousin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\13648.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "cousin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\13631.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "cousin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\13632.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "cousin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\13633.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "cousin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\13634.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "cousin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\13635.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "cousin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\13636.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "cousin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\13630.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "cousin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\13640.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "cousin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\13641.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "cousin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\13642.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "cousin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\13646.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "deaf",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\14882.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "deaf",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\14903.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "deaf",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\14883.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "deaf",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\14884.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "deaf",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\14885.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "deaf",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\14886.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "deaf",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\65445.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "deaf",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\14887.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "deaf",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\14888.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "deaf",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\14893.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "deaf",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\14894.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "fine",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\21870.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "fine",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\21890.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "fine",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\21891.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "fine",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\21871.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "fine",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\21872.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "fine",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\21869.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "fine",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\21874.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "fine",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\21878.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "fine",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\21883.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "help",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\69364.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "help",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\27221.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "help",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\27206.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "help",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\27207.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "help",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\27208.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "help",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\27209.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "help",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\65890.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "help",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\27213.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "help",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\27214.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "help",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\65891.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "help",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\65889.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "help",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\27215.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "help",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\27216.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "help",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\27217.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "no",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\69411.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "no",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\38525.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "no",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\38544.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "no",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\38527.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "no",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\38529.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "no",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\38530.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "no",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\38532.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "no",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\38533.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "no",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\66183.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "no",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\38524.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "no",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\38534.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "thin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\57948.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "thin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\57949.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "thin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\57934.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "thin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\57953.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "thin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\57935.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "thin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\57936.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "thin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\57937.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "thin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\66606.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "thin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\57939.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "thin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\57940.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "thin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\57941.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "thin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\57942.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "thin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\66607.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "thin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\57933.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "thin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\57943.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "thin",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\57947.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "walk",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\62175.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "walk",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\62159.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "walk",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\62160.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "walk",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\62163.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "walk",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\62164.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "walk",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\66743.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "walk",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\66742.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "walk",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\62158.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "walk",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\62168.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "walk",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\62169.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "walk",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\62170.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "year",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\64211.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "year",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\64224.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "year",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\64210.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "year",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\64212.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "year",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\66818.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "year",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\64213.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "year",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\66816.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "year",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\64209.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "year",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\64219.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "year",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\64218.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "yes",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\69546.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "yes",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\64287.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "yes",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\64284.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "yes",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\64291.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "yes",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\64292.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "yes",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\64293.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "yes",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\66820.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "yes",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\64280.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "yes",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\64300.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "yes",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\64281.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "yes",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\64288.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "yes",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\64283.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "all",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\69206.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "all",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\02003.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "all",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\01987.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "all",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\01988.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "all",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\01991.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "all",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\01992.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "all",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\65043.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "all",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\01986.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "black",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\69236.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "black",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\06472.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "black",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\06473.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "black",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\06474.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "black",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\06476.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "black",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\06477.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "black",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\06478.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "black",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\65200.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "black",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\06471.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "black",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\06486.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "cool",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\69281.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "cool",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\65403.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "cool",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\13213.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "cool",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\13197.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "cool",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\13216.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "cool",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\13217.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "cool",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\13198.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "cool",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\13199.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "cool",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\13200.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "cool",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\13201.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "cool",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\65402.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "cool",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\13202.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "cool",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\13203.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "cool",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\13196.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "cool",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\13208.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "cool",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\13209.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "finish",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\21942.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "finish",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\21943.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "finish",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\21944.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "finish",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\21945.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "finish",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\21949.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "finish",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\21950.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "finish",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\65721.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "finish",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\21941.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "finish",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\21951.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "hot",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\69368.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "hot",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\28125.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "hot",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\28108.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "hot",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\28109.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "hot",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\28110.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "hot",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\28111.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "hot",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\28112.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "hot",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\28115.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "hot",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\28116.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "hot",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\28107.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "like",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\69389.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "like",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\33266.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "like",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\33285.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "like",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\33267.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "like",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\33286.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "like",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\33268.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "like",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\33269.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "like",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\33270.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "like",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\33273.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "like",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\33274.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "many",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\69396.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "many",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\34823.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "many",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\34824.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "many",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\34825.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "many",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\34826.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "many",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\34827.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "many",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\34830.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "many",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\34831.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "many",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\34832.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "many",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\34839.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "mother",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\69402.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "mother",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\36946.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "mother",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\36930.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "mother",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\36931.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "mother",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\36932.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "mother",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\36933.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "mother",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\36936.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "mother",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\36937.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "mother",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\66147.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "mother",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\66146.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "mother",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\36929.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "now",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\69413.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "now",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\38994.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "now",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\38999.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "now",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\39000.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "now",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\38990.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "now",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\39006.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "now",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\38991.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "now",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\38995.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "now",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\38997.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "orange",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\69422.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "orange",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\40115.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "orange",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\40116.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "orange",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\40117.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "orange",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\40118.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "orange",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\40119.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "orange",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\40121.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "orange",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\66246.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "orange",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\40129.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "orange",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\40130.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "table",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\56557.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "table",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\56579.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "table",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\56558.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "table",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\56556.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "table",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\56563.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "thanksgiving",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\57628.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "thanksgiving",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\57647.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "thanksgiving",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\57629.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "thanksgiving",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\57630.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "thanksgiving",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\57631.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "thanksgiving",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\57632.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "thanksgiving",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\57633.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "thanksgiving",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\57634.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "thanksgiving",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\57635.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "thanksgiving",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\57638.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    },
+    {
+        "gloss": "thanksgiving",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\57639.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "val"
+    },
+    {
+        "gloss": "thanksgiving",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\57640.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "test"
+    },
+    {
+        "gloss": "thanksgiving",
+        "video_path": "C:\\Users\\shaga\\Desktop\\Thesis\\videos\\57641.mp4",
+        "frame_start": 1,
+        "frame_end": -1,
+        "split": "train"
+    }
+]
